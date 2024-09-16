@@ -1,5 +1,5 @@
 # Laravel-permission
-
+- Rolえに対して追加
 - [laravel-permission
   ](https://github.com/spatie/laravel-permission)
 
